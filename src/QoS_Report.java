@@ -8,7 +8,8 @@ public class QoS_Report
 		int i=Input.input();
 		if(i==1)
 		{
-			
+			System.out.println("yes.");
+			ReadDir.read_files();
 		}
 		else
 		{
