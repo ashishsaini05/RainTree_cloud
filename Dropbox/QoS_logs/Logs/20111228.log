@@ -1,0 +1,20 @@
+[5C42] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3A  LanId: | (12/28 09:00:59) | Client is disconnected from agent.
+[5C42] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3A  LanId: | (12/28 09:01:17 - 12/28 09:03:24) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 17 times
+[5C42] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3A (locked) LanId: | (12/28 09:03:29) | Drop count limit (5) exceeded while pinging www.google.com [74.125.159.147]
+[5C42] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3A (locked) LanId: | (12/28 09:03:30) | Client is connected to agent.
+[5C42] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3A (locked) LanId: | (12/28 09:03:34) | Drop count limit (5) exceeded while pinging www.google.com [74.125.159.147]
+
+[5D1C] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3A (locked) LanId: | (12/28 09:03:39 - 12/28 09:03:44) | Drop count limit (5) exceeded while pinging www.google.com [74.125.159.147] 2x
+
+[5E8A] ComputerName:EMMETT-THINK UserID:A0001 Emmett Parker Station 5  LanId: | (12/28 13:07:47) | Client is disconnected from agent.
+[5E8A] ComputerName:EMMETT-THINK UserID:A0001 Emmett Parker Station 5 (locked) LanId: | (12/28 13:08:02) | Client is connected to agent.
+
+[5FA7] ComputerName:MOODYLAPTOP UserID:A0007 Jonathan Burke Station 8  LanId: | (12/28 13:52:12) | Client is disconnected from agent.
+[5FA7] ComputerName:MOODYLAPTOP UserID: Logged out Station 0 LanId: | (12/28 13:52:27) | Client is connected to agent.
+
+[6445] ComputerName:EMMETT-THINK UserID:A0001 Emmett Parker Station 5  LanId: | (12/28 16:10:15) | Client is disconnected from agent.
+[659E] ComputerName:EMMETT-THINK UserID:A0001 Emmett Parker Station 5  LanId: | (12/28 16:10:25) | Client is connected to agent.
+
+[6904] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 1  LanId: | (12/28 20:44:41) | Client is disconnected from agent.
+[6904] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 1  LanId: | (12/28 20:44:56) | Client is connected to agent.
+

@@ -1,0 +1,29 @@
+[36A9] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/19 09:29:00 - 01/19 09:29:05) | Average limit (300) exceeded while pinging www.google.com [74.125.45.103] 2x
+
+[36DD] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 3A  LanId: | (01/19 09:29:14 - 01/19 09:29:18) | Average limit (300) exceeded while pinging www.google.com [74.125.65.106] 2x
+
+[3654] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (01/19 09:30:19 - 01/19 09:30:30) | Average limit (300) exceeded while pinging www.google.com [74.125.159.103] 3 times
+[3654] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (01/19 09:30:35) | Average limit (300) exceeded while pinging www.google.com [www.google.com]
+
+[36A9] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/19 09:29:10) | Average limit (300) exceeded while pinging www.google.com [www.google.com]
+[36A9] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/19 09:29:15 - 01/19 09:29:25) | Average limit (300) exceeded while pinging www.google.com [74.125.45.103] 3 times
+[36A9] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/19 09:29:31) | Average limit (300) exceeded while pinging www.google.com [www.google.com]
+[36A9] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/19 09:29:35) | Average limit (300) exceeded while pinging www.google.com [74.125.45.103]
+[36A9] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/19 09:29:41) | Average limit (300) exceeded while pinging www.google.com [www.google.com]
+[36A9] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/19 09:29:45 - 01/19 09:29:51) | Average limit (300) exceeded while pinging www.google.com [74.125.45.103] 2 times
+[36A9] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/19 09:29:56) | Average limit (300) exceeded while pinging www.google.com [www.google.com]
+[36A9] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/19 09:30:01) | Average limit (300) exceeded while pinging www.google.com [74.125.157.147]
+
+[36DD] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 3A  LanId: | (01/19 09:29:23 - 01/19 09:29:53) | Average limit (300) exceeded while pinging www.google.com [74.125.65.106] 7x
+
+[3654] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (01/19 09:30:39 - 01/19 09:31:20) | Average limit (300) exceeded while pinging www.google.com [74.125.159.104] 9x
+
+[36A9] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/19 10:54:11) | Client is disconnected from agent.
+[36A9] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/19 10:54:22) | Client is connected to agent.
+
+[3648] ComputerName:FRONTOFFICE UserID:YB Yenae Ball Station 7B  LanId: | (01/19 15:50:10) | Client is disconnected from agent.
+[3648] ComputerName:FRONTOFFICE UserID:YB Yenae Ball Station 7B  LanId: | (01/19 15:50:15) | Client is connected to agent.
+
+[3A38] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11A  LanId: | (01/19 17:04:13) | Client is disconnected from agent.
+[3A38] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11A  LanId: | (01/19 17:11:27 - 01/19 17:17:55) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 4x
+

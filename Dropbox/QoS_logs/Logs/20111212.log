@@ -1,0 +1,28 @@
+[7BD0] ComputerName:COMPUTER2 UserID:A0006 Beth Garwick Station 11  LanId: | (12/12 07:18:10) | Client is disconnected from agent.
+[7BD0] ComputerName:COMPUTER2 UserID:A0006 Beth Garwick Station 11  LanId: | (12/12 07:18:44 - 12/12 07:20:36) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 6x
+
+[7FB3] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 10C  LanId: | (12/12 11:05:34) | Client is disconnected from agent.
+[7FB3] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 10C  LanId: | (12/12 11:05:46 - 12/12 11:15:33) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 44 times
+[7FB3] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 10C (locked) LanId: | (12/12 11:15:37) | Client is connected to agent.
+[7FB3] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 10C (locked) LanId: | (12/12 11:15:38 - 12/12 11:15:53) | Drop count limit (5) exceeded while pinging www.google.com [74.125.65.104] 4x
+
+[7D4C] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (12/12 11:05:49) | Client is disconnected from agent.
+[7D4C] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (12/12 11:06:04 - 12/12 11:15:50) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 44 times
+[7D4C] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (12/12 11:15:53) | Client is connected to agent.
+[7D4C] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A (locked) LanId: | (12/12 11:15:55 - 12/12 11:16:10) | Drop count limit (5) exceeded while pinging www.google.com [74.125.45.147] 4x
+
+[7EFA] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 6  LanId: | (12/12 13:38:07) | Client is disconnected from agent.
+[7EFA] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 6  LanId: | (12/12 13:38:12) | Client is connected to agent.
+
+[7D0F] ComputerName:COMPUTER2 UserID:A0006 Beth Garwick Station 12  LanId: | (12/12 13:48:06) | Client is disconnected from agent.
+
+[7D0F] ComputerName:COMPUTER2 UserID:A0006 Beth Garwick Station 12  LanId: | (12/12 13:48:17) | Client is connected to agent.
+
+[7F2E] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11A  LanId: | (12/12 11:05:46) | Client is disconnected from agent.
+[7F2E] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11A  LanId: | (12/12 11:06:07 - 12/12 11:15:22) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 24 times
+[7F2E] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11A  LanId: | (12/12 11:15:31 - 12/12 11:15:46) | Drop count limit (5) exceeded while pinging www.google.com [74.125.65.104] 4 times
+[7F2E] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11A  LanId: | (12/12 11:15:52) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com]
+
+[7DF7] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 4C  LanId: | (12/12 11:34:09) | Client is disconnected from agent.
+[7DF7] ComputerName:APTOFFICE UserID: Logged out Station 0 LanId: | (12/12 11:34:15) | Client is connected to agent.
+

@@ -1,0 +1,76 @@
+[16233] ComputerName:COMPUTER2 UserID:A0012 Kevin Thomason Station 12  LanId: | (01/11 07:13:37) | Client is disconnected from agent.
+
+[1641D] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/11 09:41:45) | Client is disconnected from agent.
+[1641D] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/11 09:41:50) | Client is connected to agent.
+
+[1641D] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/11 09:42:55 - 01/11 09:43:00) | Average limit (300) exceeded while pinging www.google.com [74.125.47.147] 2 times
+[1641D] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/11 09:43:05) | Average limit (300) exceeded while pinging www.google.com [www.google.com]
+[1641D] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/11 09:43:10 - 01/11 09:43:15) | Average limit (300) exceeded while pinging www.google.com [74.125.47.147] 2x
+
+[1641D] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/11 09:43:20 - 01/11 09:43:45) | Average limit (300) exceeded while pinging www.google.com [74.125.47.147] 6 times
+[1641D] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/11 09:43:51) | Average limit (300) exceeded while pinging www.google.com [www.google.com]
+[1641D] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/11 09:43:56) | Average limit (300) exceeded while pinging www.google.com [74.125.47.147]
+[1641D] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/11 09:44:02) | Average limit (300) exceeded while pinging www.google.com [www.google.com]
+[1641D] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/11 09:44:07) | Average limit (300) exceeded while pinging www.google.com [74.125.47.147]
+
+[163A9] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 3  LanId: | (01/11 09:50:03 - 01/11 09:50:18) | Average limit (300) exceeded while pinging www.google.com [74.125.47.99] 4x
+
+[16646] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/11 09:50:17) | Average limit (300) exceeded while pinging www.google.com [www.google.com]
+
+[165F2] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 5  LanId: | (01/11 09:51:43 - 01/11 09:52:33) | Average limit (300) exceeded while pinging www.google.com [74.125.47.147] 11x
+
+[16646] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/11 09:50:37 - 01/11 09:50:42) | Average limit (300) exceeded while pinging www.google.com [74.125.159.104] 2 times
+[16646] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/11 09:50:48) | Average limit (300) exceeded while pinging www.google.com [www.google.com]
+[16646] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/11 09:50:53) | Average limit (300) exceeded while pinging www.google.com [74.125.159.104]
+
+[163A9] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 3  LanId: | (01/11 09:50:23 - 01/11 09:51:18) | Average limit (300) exceeded while pinging www.google.com [74.125.47.99] 12x
+
+[16646] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/11 10:44:38) | Client is disconnected from agent.
+[16646] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/11 10:44:43) | Client is connected to agent.
+
+[16834] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/11 11:06:19) | Client is disconnected from agent.
+[16834] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11A (locked) LanId: | (01/11 11:06:24) | Client is connected to agent.
+
+[168DF] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11A (locked) LanId: | (01/11 11:17:21) | Client is disconnected from agent.
+
+[168DF] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11A (locked) LanId: | (01/11 11:17:26) | Client is connected to agent.
+
+[163A9] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 3  LanId: | (01/11 11:33:59 - 01/11 11:34:04) | Average limit (300) exceeded while pinging www.google.com [74.125.157.147] 2x
+
+[16946] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11A (locked) LanId: | (01/11 11:33:50 - 01/11 11:34:20) | Average limit (300) exceeded while pinging www.google.com [74.125.159.104] 7 times
+[16946] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11A (locked) LanId: | (01/11 11:34:26) | Average limit (300) exceeded while pinging www.google.com [www.google.com]
+
+[165F2] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 5  LanId: | (01/11 11:35:43 - 01/11 11:36:24) | Average limit (300) exceeded while pinging www.google.com [74.125.47.99] 9x
+
+[163A9] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 3  LanId: | (01/11 11:34:09 - 01/11 11:34:35) | Average limit (300) exceeded while pinging www.google.com [74.125.157.147] 6x
+
+[16946] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11A (locked) LanId: | (01/11 11:34:30 - 01/11 11:34:45) | Average limit (300) exceeded while pinging www.google.com [74.125.159.104] 4x
+
+[165F2] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 5  LanId: | (01/11 11:36:28) | Average limit (300) exceeded while pinging www.google.com [74.125.47.99]
+
+[16A15] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (01/11 12:00:04) | Client is disconnected from agent.
+[16A15] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (01/11 12:00:22 - 01/11 12:00:53) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 5 times
+[16A15] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (01/11 12:00:58) | Drop count limit (5) exceeded while pinging www.google.com [74.125.47.103]
+[16A15] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (01/11 12:01:00) | Client is connected to agent.
+[16A15] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (01/11 12:01:03) | Drop count limit (5) exceeded while pinging www.google.com [74.125.47.103]
+
+[16946] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11A  LanId: | (01/11 12:03:46 - 01/11 12:04:16) | Average limit (300) exceeded while pinging www.google.com [74.125.47.99] 7x
+
+[16946] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11A  LanId: | (01/11 12:05:57 - 01/11 12:06:13) | Average limit (300) exceeded while pinging www.google.com [74.125.47.99] 4x
+
+[16258] ComputerName:CHELLAPTOP2 UserID:A0010 Nate Coronado Station 1  LanId: | (01/11 13:01:57) | Client is disconnected from agent.
+[16258] ComputerName:CHELLAPTOP2 UserID:A0010 Nate Coronado Station 1  LanId: | (01/11 13:02:07) | Client is connected to agent.
+
+[16C66] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 6  LanId: | (01/11 13:50:46) | Client is disconnected from agent.
+[16C66] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 6 (locked) LanId: | (01/11 13:50:56) | Client is connected to agent.
+
+[15352] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9902  LanId: | (01/11 04:48:30) | Client is disconnected from agent.
+[15352] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9902  LanId: | (01/11 04:48:41) | Average limit (300) exceeded while pinging www.google.com [www.google.com]
+[15352] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9902  LanId: | (01/11 04:48:47 - 01/11 04:49:23) | Average limit (300) exceeded while pinging www.google.com [74.125.224.145] 8x
+
+[16A15] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (01/11 12:01:08 - 01/11 12:01:13) | Drop count limit (5) exceeded while pinging www.google.com [74.125.47.103] 2x
+
+[1704D] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (01/11 21:03:52) | Client is disconnected from agent.
+[1704D] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (01/11 21:03:57) | Client is connected to agent.
+[1704D] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (01/11 21:04:02) | Client is disconnected from agent.
+

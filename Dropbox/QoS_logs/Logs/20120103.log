@@ -1,0 +1,45 @@
+[B330] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 9  LanId: | (01/03 09:59:45) | Client is disconnected from agent.
+[B330] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 9  LanId: | (01/03 09:59:51 - 01/03 09:59:59) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 2x
+
+[B330] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 9  LanId: | (01/03 10:00:07 - 01/03 10:06:33) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 48 times
+[B330] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 9  LanId: | (01/03 10:06:37) | Client is connected to agent.
+[B330] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 9  LanId: | (01/03 10:06:38 - 01/03 10:06:48) | Drop count limit (5) exceeded while pinging www.google.com [74.125.159.105] 3x
+
+[B453] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 9  LanId: | (01/03 10:06:53) | Drop count limit (5) exceeded while pinging www.google.com [74.125.159.105]
+
+[B1E7] ComputerName:COMPUTER2 UserID:A0006 Beth Garwick Station 11  LanId: | (01/03 08:14:50) | Client is disconnected from agent.
+
+[B2D3] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 12  LanId: | (01/03 11:02:37) | Client is disconnected from agent.
+[B2D3] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 12  LanId: | (01/03 11:02:48) | Client is connected to agent.
+
+[B0A4] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 3  LanId: | (01/03 12:05:40 - 01/03 12:05:46) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 2 times
+[B0A4] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 3  LanId: | (01/03 12:05:51) | Drop count limit (5) exceeded while pinging www.google.com [74.125.45.105]
+
+[B0A4] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 3  LanId: | (01/03 12:05:56) | Drop count limit (5) exceeded while pinging www.google.com [74.125.45.105]
+
+[B453] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 9B  LanId: | (01/03 14:45:34) | Client is disconnected from agent.
+[B453] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 9B  LanId: | (01/03 14:46:12 - 01/03 14:47:07) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 8 times
+[B453] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 9B  LanId: | (01/03 14:47:12) | Drop count limit (5) exceeded while pinging www.google.com [74.125.45.105]
+[B453] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 9B  LanId: | (01/03 14:47:15) | Client is connected to agent.
+
+[B453] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 9B  LanId: | (01/03 14:47:17 - 01/03 14:47:27) | Drop count limit (5) exceeded while pinging www.google.com [74.125.45.105] 3x
+
+[B9E3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9901  LanId: | (01/03 13:17:06 - 01/03 13:17:22) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 4 times
+[B9E3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9901  LanId: | (01/03 13:17:28) | Drop count limit (5) exceeded while pinging www.google.com [74.125.224.49]
+
+[B9E3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9901  LanId: | (01/03 13:17:33) | Drop count limit (5) exceeded while pinging www.google.com [74.125.224.49]
+[B9E3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9901  LanId: | (01/03 13:17:39) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com]
+[B9E3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9901  LanId: | (01/03 13:17:44 - 01/03 13:17:50) | Drop count limit (5) exceeded while pinging www.google.com [74.125.224.49] 2 times
+[B9E3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9901  LanId: | (01/03 13:17:55) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com]
+
+[B9E3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9901  LanId: | (01/03 13:22:39 - 01/03 13:22:50) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 2 times
+[B9E3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9901  LanId: | (01/03 13:22:56) | Drop count limit (5) exceeded while pinging www.google.com [74.125.224.114]
+[B9E3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9901  LanId: | (01/03 13:23:07) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com]
+
+[B9E3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9901  LanId: | (01/03 13:34:51) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com]
+[B9E3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9901  LanId: | (01/03 13:34:57) | Drop count limit (5) exceeded while pinging www.google.com [74.125.224.112]
+
+[B9E2] ComputerName:CLAYTON-PC UserID:GO Clayton Station 9900  LanId: | (01/03 17:55:15) | Client is disconnected from agent.
+[B9E2] ComputerName:CLAYTON-PC UserID:GO Clayton Station 9900  LanId: | (01/03 17:55:30) | Client is connected to agent.
+[B9E2] ComputerName:CLAYTON-PC UserID:GO Clayton Station 9900  LanId: | (01/03 17:55:35) | Client is disconnected from agent.
+

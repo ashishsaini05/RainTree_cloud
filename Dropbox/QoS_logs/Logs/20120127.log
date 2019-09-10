@@ -1,0 +1,31 @@
+[6261] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 2A (locked) LanId: | (01/27 09:17:10) | Client is disconnected from agent.
+[6261] ComputerName:APTTRUSSVILLE UserID: Logged out Station 0 LanId: | (01/27 09:17:15) | Client is connected to agent.
+
+[9759] ComputerName:MOODYLAPTOP UserID:A0007 Jonathan Burke Station 10  LanId: | (01/27 10:47:44) | Client is disconnected from agent.
+[9759] ComputerName:MOODYLAPTOP UserID:A0007 Jonathan Burke Station 10 (locked) LanId: | (01/27 10:47:59) | Client is connected to agent.
+
+[9B1A] ComputerName:MOODYLAPTOP UserID:A0007 Jonathan Burke Station 10  LanId: | (01/27 11:12:53) | Client is disconnected from agent.
+[9B1A] ComputerName:MOODYLAPTOP UserID:A0007 Jonathan Burke Station 10  LanId: | (01/27 11:13:08) | Client is connected to agent.
+
+[92A7] ComputerName:FRONTOFFICE UserID:YB Yenae Ball Station 7A  LanId: | (01/27 11:46:03) | Client is disconnected from agent.
+[92A7] ComputerName:FRONTOFFICE UserID:YB Yenae Ball Station 7A  LanId: | (01/27 11:46:08) | Client is connected to agent.
+
+[9551] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 8  LanId: | (01/27 12:45:44) | Client is disconnected from agent.
+[9551] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 8  LanId: | (01/27 12:45:54) | Client is connected to agent.
+
+[96D5] ComputerName:EMMETT-THINK UserID:A0001 Emmett Parker Station 9A  LanId: | (01/27 12:45:58) | Client is disconnected from agent.
+[96D5] ComputerName:EMMETT-THINK UserID:A0001 Emmett Parker Station 9A  LanId: | (01/27 12:46:08) | Client is connected to agent.
+
+[9E3D] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 8A  LanId: | (01/27 13:33:59) | Client is disconnected from agent.
+[9E3D] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 8A (locked) LanId: | (01/27 13:34:04) | Client is connected to agent.
+
+[9E3F] ComputerName:EMMETT-THINK UserID:A0001 Emmett Parker Station 9A  LanId: | (01/27 13:51:32) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com]
+[9E3F] ComputerName:EMMETT-THINK UserID:A0001 Emmett Parker Station 9A  LanId: | (01/27 13:51:34) | Client is disconnected from agent.
+[9E3F] ComputerName:EMMETT-THINK UserID:A0001 Emmett Parker Station 9A  LanId: | (01/27 13:51:38 - 01/27 13:52:06) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 6 times
+[9E3F] ComputerName:EMMETT-THINK UserID:A0001 Emmett Parker Station 9A  LanId: | (01/27 13:52:11) | Drop count limit (5) exceeded while pinging www.google.com [74.125.159.106]
+[9E3F] ComputerName:EMMETT-THINK UserID:A0001 Emmett Parker Station 9A  LanId: | (01/27 13:52:14) | Client is connected to agent.
+[9E3F] ComputerName:EMMETT-THINK UserID:A0001 Emmett Parker Station 9A  LanId: | (01/27 13:52:16 - 01/27 13:52:26) | Drop count limit (5) exceeded while pinging www.google.com [74.125.159.106] 3x
+
+[9CB1] ComputerName:FRONTOFFICE UserID:YB Yenae Ball Station 7  LanId: | (01/27 14:06:31) | Client is disconnected from agent.
+[9CB1] ComputerName:FRONTOFFICE UserID:YB Yenae Ball Station 7B  LanId: | (01/27 14:06:36) | Client is connected to agent.
+

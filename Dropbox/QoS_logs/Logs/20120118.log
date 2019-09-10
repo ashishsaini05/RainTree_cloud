@@ -1,0 +1,22 @@
+[2557] ComputerName:MOODYLAPTOP UserID:A0007 Jonathan Burke Station 6  LanId: | (01/18 09:37:08) | Client is disconnected from agent.
+[2557] ComputerName:MOODYLAPTOP UserID:A0007 Jonathan Burke Station 6 (locked) LanId: | (01/18 09:37:23) | Client is connected to agent.
+
+[24B8] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (01/18 08:51:18) | Client is disconnected from agent.
+[24B8] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (01/18 08:51:31 - 01/18 08:59:49) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 64x
+
+[24B8] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (01/18 09:00:04 - 01/18 09:00:19) | Drop count limit (5) exceeded while pinging www.google.com [74.125.65.104] 4x
+
+[2532] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/18 11:47:04) | Client is disconnected from agent.
+[2532] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/18 11:47:14) | Client is connected to agent.
+
+[255A] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 4  LanId: | (01/18 12:52:50) | Client is disconnected from agent.
+[255A] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 4  LanId: | (01/18 12:53:30) | Client is connected to agent.
+
+[29BB] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11A  LanId: | (01/18 14:49:23) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com]
+
+[2E02] ComputerName:FRONTOFFICE UserID:YB Yenae Ball Station 7B  LanId: | (01/18 15:19:53) | Client is disconnected from agent.
+[2E02] ComputerName:FRONTOFFICE UserID:YB Yenae Ball Station 7B  LanId: | (01/18 15:19:58) | Client is connected to agent.
+
+[2E3B] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 9A  LanId: | (01/18 16:07:07) | Client is disconnected from agent.
+[2E3B] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 9A (locked) LanId: | (01/18 16:07:17) | Client is connected to agent.
+

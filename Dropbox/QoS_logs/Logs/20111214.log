@@ -1,0 +1,81 @@
+[C2C0] ComputerName:APTMOODY UserID:RN Reba Nappier Station 10A  LanId: | (12/14 09:06:48) | Client is disconnected from agent.
+[C2C0] ComputerName:APTMOODY UserID:RN Reba Nappier Station 10A  LanId: | (12/14 09:06:53) | Client is connected to agent.
+
+[C2C0] ComputerName:APTMOODY UserID:RN Reba Nappier Station 10A  LanId: | (12/14 09:08:25) | Client is disconnected from agent.
+[C2C0] ComputerName:APTMOODY UserID:RN Reba Nappier Station 10A  LanId: | (12/14 09:08:35) | Client is connected to agent.
+
+[C387] ComputerName:APTMOODY UserID:RN Reba Nappier Station 10A  LanId: | (12/14 09:14:14) | Client is disconnected from agent.
+[C387] ComputerName:APTMOODY UserID:RN Reba Nappier Station 10A  LanId: | (12/14 09:14:19) | Client is connected to agent.
+[C387] ComputerName:APTMOODY UserID:RN Reba Nappier Station 10A  LanId: | (12/14 09:14:59) | Client is disconnected from agent.
+[C387] ComputerName:APTMOODY UserID:RN Reba Nappier Station 10A  LanId: | (12/14 09:15:15 - 12/14 09:18:01) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 34 times
+[C387] ComputerName:APTMOODY UserID:RN Reba Nappier Station 10A  LanId: | (12/14 09:18:07) | Drop count limit (5) exceeded while pinging www.google.com [74.125.159.104]
+[C387] ComputerName:APTMOODY UserID:RN Reba Nappier Station 10A  LanId: | (12/14 09:18:10) | Client is connected to agent.
+[C387] ComputerName:APTMOODY UserID:RN Reba Nappier Station 10A (locked) LanId: | (12/14 09:18:12) | Drop count limit (5) exceeded while pinging www.google.com [74.125.159.104]
+
+[C387] ComputerName:APTMOODY UserID:RN Reba Nappier Station 10A (locked) LanId: | (12/14 09:18:17 - 12/14 09:18:22) | Drop count limit (5) exceeded while pinging www.google.com [74.125.159.104] 2 times
+[C387] ComputerName:APTMOODY UserID:RN Reba Nappier Station 10A (locked) LanId: | (12/14 09:19:11) | Client is disconnected from agent.
+[C387] ComputerName:APTMOODY UserID:RN Reba Nappier Station 10A (locked) LanId: | (12/14 09:19:41) | Client is connected to agent.
+
+[C2B9] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 4A  LanId: | (12/14 09:44:44) | Client is disconnected from agent.
+[C2B9] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 4A  LanId: | (12/14 09:45:02 - 12/14 09:47:09) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 17 times
+[C2B9] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 4C  LanId: | (12/14 09:47:14) | Drop count limit (5) exceeded while pinging www.google.com [74.125.45.106]
+[C2B9] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 4C  LanId: | (12/14 09:47:15) | Client is connected to agent.
+[C2B9] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 4C (locked) LanId: | (12/14 09:47:19 - 12/14 09:47:29) | Drop count limit (5) exceeded while pinging www.google.com [74.125.45.106] 3x
+
+[C34D] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 8  LanId: | (12/14 10:36:11) | Client is disconnected from agent.
+[C34D] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 8  LanId: | (12/14 10:36:16) | Client is connected to agent.
+
+[C3D1] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (12/14 08:42:21) | Client is disconnected from agent.
+[C3D1] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (12/14 08:42:26) | Client is connected to agent.
+
+[C6BD] ComputerName:APTMOODY UserID:RN Reba Nappier Station 2  LanId: | (12/14 12:39:39) | Client is disconnected from agent.
+[C6BD] ComputerName:APTMOODY UserID:RN Reba Nappier Station 2  LanId: | (12/14 12:39:44) | Client is connected to agent.
+
+[C802] ComputerName:APTMOODY UserID:RN Reba Nappier Station 2  LanId: | (12/14 12:43:41) | Client is disconnected from agent.
+[C802] ComputerName:APTMOODY UserID:RN Reba Nappier Station 2  LanId: | (12/14 12:44:16) | Client is connected to agent.
+
+[C223] ComputerName:FRONTOFFICE UserID:YB Yenae Ball Station 7A  LanId: | (12/14 14:32:59) | Client is disconnected from agent.
+[C223] ComputerName:FRONTOFFICE UserID:YB Yenae Ball Station 7A  LanId: | (12/14 14:33:04) | Client is connected to agent.
+
+[C826] ComputerName:APTMOODY UserID:RN Reba Nappier Station 2  LanId: | (12/14 12:48:04) | Client is disconnected from agent.
+[C826] ComputerName:APTMOODY UserID:RN Reba Nappier Station 2  LanId: | (12/14 12:49:11 - 12/14 12:59:55) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 30x
+
+[C826] ComputerName:APTMOODY UserID:RN Reba Nappier Station 2  LanId: | (12/14 13:00:17 - 12/14 13:12:30) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 29 times
+[C826] ComputerName:APTMOODY UserID:RN Reba Nappier Station 2  LanId: | (12/14 13:12:45 - 12/14 13:13:00) | Drop count limit (5) exceeded while pinging www.google.com [192.168.254.254] 4x
+
+[C388] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (12/14 17:06:12) | Average limit (300) exceeded while pinging www.google.com [74.125.159.105]
+[C388] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (12/14 17:06:17) | Average limit (300) exceeded while pinging www.google.com [www.google.com]
+[C388] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (12/14 17:06:22 - 12/14 17:06:27) | Average limit (300) exceeded while pinging www.google.com [74.125.159.105] 2 times
+[C388] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (12/14 17:06:32) | Average limit (300) exceeded while pinging www.google.com [www.google.com]
+[C388] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (12/14 17:06:38 - 12/14 17:06:53) | Average limit (300) exceeded while pinging www.google.com [74.125.65.103] 4x
+
+[C388] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (12/14 17:06:58) | Average limit (300) exceeded while pinging www.google.com [www.google.com]
+[C388] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (12/14 17:07:03) | Average limit (300) exceeded while pinging www.google.com [74.125.47.103]
+[C388] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (12/14 17:07:09) | Average limit (300) exceeded while pinging www.google.com [www.google.com]
+[C388] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (12/14 17:07:13) | Average limit (300) exceeded while pinging www.google.com [74.125.47.103]
+
+[CD33] ComputerName:APTMOODY UserID:RN Reba Nappier Station 9B  LanId: | (12/14 17:15:02) | Client is disconnected from agent.
+[CD33] ComputerName:APTMOODY UserID:RN Reba Nappier Station 9B  LanId: | (12/14 17:15:18 - 12/14 17:23:26) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 98x
+
+[C99A] ComputerName:EMMETT-THINK UserID:A0001 Emmett Parker Station 2  LanId: | (12/14 15:43:34) | Client is disconnected from agent.
+
+[C883] ComputerName:KARIPC UserID:GO Kari Brookbank Station 9901  LanId: | (12/14 17:02:38) | Client is disconnected from agent.
+[C883] ComputerName:KARIPC UserID:GO Kari Brookbank Station 9901  LanId: | (12/14 17:02:45 - 12/14 17:06:22) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 39 times
+[C883] ComputerName:KARIPC UserID:GO Kari Brookbank Station 9901  LanId: | (12/14 17:06:27) | Drop count limit (5) exceeded while pinging www.google.com [74.125.47.104]
+[C883] ComputerName:KARIPC UserID:GO Kari Brookbank Station 9901  LanId: | (12/14 17:06:33 - 12/14 17:12:37) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 23 times
+[C883] ComputerName:KARIPC UserID:GO Kari Brookbank Station 9901  LanId: | (12/14 17:12:42) | Drop count limit (5) exceeded while pinging www.google.com [74.125.47.147]
+[C883] ComputerName:KARIPC UserID:GO Kari Brookbank Station 9901  LanId: | (12/14 17:12:48 - 12/14 17:13:38) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 10 times
+[C883] ComputerName:KARIPC UserID:GO Kari Brookbank Station 9901  LanId: | (12/14 17:13:43 - 12/14 17:13:58) | Drop count limit (5) exceeded while pinging www.google.com [74.125.47.147] 4x
+
+[C883] ComputerName:KARIPC UserID:GO Kari Brookbank Station 9901  LanId: | (12/14 22:09:06 - 12/14 22:09:46) | Average limit (370) exceeded while pinging www.google.com [74.125.159.103] 9 times
+[C883] ComputerName:KARIPC UserID:GO Kari Brookbank Station 9901  LanId: | (12/14 22:09:52) | Average limit (370) exceeded while pinging www.google.com [www.google.com]
+[C883] ComputerName:KARIPC UserID:GO Kari Brookbank Station 9901  LanId: | (12/14 22:09:56 - 12/14 22:11:03) | Average limit (370) exceeded while pinging www.google.com [74.125.159.103] 8 times
+[C883] ComputerName:KARIPC UserID:GO Kari Brookbank Station 9901  LanId: | (12/14 22:11:09) | Average limit (370) exceeded while pinging www.google.com [www.google.com]
+[C883] ComputerName:KARIPC UserID:GO Kari Brookbank Station 9901  LanId: | (12/14 22:11:15 - 12/14 22:11:45) | Average limit (370) exceeded while pinging www.google.com [74.125.159.103] 7 times
+[C883] ComputerName:KARIPC UserID:GO Kari Brookbank Station 9901  LanId: | (12/14 22:11:51) | Average limit (370) exceeded while pinging www.google.com [www.google.com]
+[C883] ComputerName:KARIPC UserID:GO Kari Brookbank Station 9901  LanId: | (12/14 22:11:55 - 12/14 22:12:01) | Average limit (370) exceeded while pinging www.google.com [74.125.159.103] 2 times
+[C883] ComputerName:KARIPC UserID:GO Kari Brookbank Station 9901  LanId: | (12/14 22:12:06) | Average limit (370) exceeded while pinging www.google.com [www.google.com]
+[C883] ComputerName:KARIPC UserID:GO Kari Brookbank Station 9901  LanId: | (12/14 22:12:12 - 12/14 22:12:22) | Average limit (370) exceeded while pinging www.google.com [74.125.157.147] 3 times
+[C883] ComputerName:KARIPC UserID:GO Kari Brookbank Station 9901  LanId: | (12/14 22:12:28) | Average limit (370) exceeded while pinging www.google.com [www.google.com]
+[C883] ComputerName:KARIPC UserID:GO Kari Brookbank Station 9901  LanId: | (12/14 22:12:33 - 12/14 22:12:43) | Average limit (370) exceeded while pinging www.google.com [74.125.157.147] 3x
+

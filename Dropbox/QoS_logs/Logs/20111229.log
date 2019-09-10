@@ -1,0 +1,27 @@
+[6CAD] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 2  LanId: | (12/29 08:14:28) | Client is disconnected from agent.
+[6CAD] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 2  LanId: | (12/29 08:14:38) | Client is connected to agent.
+
+[6C4C] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 1A  LanId: | (12/29 15:35:15) | Client is disconnected from agent.
+
+[6C4C] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 1A  LanId: | (12/29 15:35:20) | Client is connected to agent.
+
+[6CE3] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 2B  LanId: | (12/29 16:20:17) | Client is disconnected from agent.
+[6CE3] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 2C (locked) LanId: | (12/29 16:20:32) | Client is connected to agent.
+
+[6C8C] ComputerName:APTMOODY UserID:RN Reba Nappier Station 3A  LanId: | (12/29 17:18:45) | Client is disconnected from agent.
+[6C8C] ComputerName:APTMOODY UserID:RN Reba Nappier Station 3A  LanId: | (12/29 17:18:50) | Client is connected to agent.
+
+[6D41] ComputerName:MOODYLAPTOP UserID:A0007 Jonathan Burke Station 6  LanId: | (12/29 17:18:36) | Client is disconnected from agent.
+[6D41] ComputerName:MOODYLAPTOP UserID:A0007 Jonathan Burke Station 6  LanId: | (12/29 17:18:41) | Client is connected to agent.
+
+[77C1] ComputerName:APTMOODY UserID:RN Reba Nappier Station 3  LanId: | (12/29 17:22:08) | Client is disconnected from agent.
+[77C1] ComputerName:APTMOODY UserID:RN Reba Nappier Station 3A (locked) LanId: | (12/29 17:22:13) | Client is connected to agent.
+
+[799D] ComputerName:LAPTOP2 UserID:DP Dale Patterson Station 1  LanId: | (12/29 19:18:50) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com]
+[799D] ComputerName:LAPTOP2 UserID:DP Dale Patterson Station 1  LanId: | (12/29 19:18:55) | Drop count limit (5) exceeded while pinging www.google.com [74.125.45.99]
+
+[799D] ComputerName:LAPTOP2 UserID:DP Dale Patterson Station 1  LanId: | (12/29 19:22:25) | Client is disconnected from agent.
+[799D] ComputerName:LAPTOP2 UserID:DP Dale Patterson Station 1  LanId: | (12/29 19:22:40) | Client is connected to agent.
+[799D] ComputerName:LAPTOP2 UserID:DP Dale Patterson Station 1  LanId: | (12/29 19:23:00) | Client is disconnected from agent.
+[799D] ComputerName:LAPTOP2 UserID:DP Dale Patterson Station 1  LanId: | (12/29 19:23:26) | Client is connected to agent.
+

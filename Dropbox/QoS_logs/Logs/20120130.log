@@ -1,0 +1,33 @@
+[06BA] ComputerName:MOODYLAPTOP UserID:A0007 Jonathan Burke Station 9  LanId: | (01/30 09:25:03) | Client is disconnected from agent.
+[06BA] ComputerName:MOODYLAPTOP UserID:A0007 Jonathan Burke Station 9 (locked) LanId: | (01/30 09:25:18) | Client is connected to agent.
+
+[0621] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 8A  LanId: | (01/30 09:44:25) | Client is disconnected from agent.
+[0621] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 8A (locked) LanId: | (01/30 09:44:35) | Client is connected to agent.
+
+[0DF6] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 8  LanId: | (01/30 13:00:07) | Client is disconnected from agent.
+[0DF6] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 8  LanId: | (01/30 13:00:12) | Client is connected to agent.
+
+[0E06] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 8A  LanId: | (01/30 13:22:08) | Client is disconnected from agent.
+[0E06] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 8A  LanId: | (01/30 13:22:13) | Client is connected to agent.
+
+[0EAD] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 8A  LanId: | (01/30 13:47:17) | Client is disconnected from agent.
+
+[0581] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 4B  LanId: | (01/30 15:07:42) | Client is disconnected from agent.
+[0581] ComputerName:APTOFFICE UserID: Logged out Station 0 LanId: | (01/30 15:07:52) | Client is connected to agent.
+
+[0E54] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 7  LanId: | (01/30 16:18:20) | Client is disconnected from agent.
+[0E54] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 7  LanId: | (01/30 16:18:25) | Client is connected to agent.
+
+[11C0] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 4  LanId: | (01/30 16:56:45) | Client is disconnected from agent.
+[11C0] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 4  LanId: | (01/30 16:57:44 - 01/30 16:58:40) | Average limit (300) exceeded while pinging www.google.com [74.125.47.106] 12 times
+[11C0] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 4  LanId: | (01/30 16:58:45 - 01/30 16:59:08) | Average limit (300) exceeded while pinging www.google.com [www.google.com] 4 times
+[11C0] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 4  LanId: | (01/30 16:59:16 - 01/30 16:59:55) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 6x
+
+[11C0] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 4  LanId: | (01/30 17:00:03 - 01/30 17:07:41) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 59 times
+[11C0] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 4  LanId: | (01/30 17:07:46 - 01/30 17:07:51) | Drop count limit (5) exceeded while pinging www.google.com [74.125.159.106] 2 times
+[11C0] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 4  LanId: | (01/30 17:07:51) | Client is connected to agent.
+[11C0] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 4 (locked) LanId: | (01/30 17:07:56 - 01/30 17:08:01) | Drop count limit (5) exceeded while pinging www.google.com [74.125.159.106] 2x
+
+[161F] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 12  LanId: | (01/30 17:48:34) | Client is disconnected from agent.
+[161F] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 12  LanId: | (01/30 17:48:39) | Client is connected to agent.
+
