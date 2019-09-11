@@ -8,8 +8,8 @@ public class Parse_file
 	{
 		DateTimeFormatter dtf= DateTimeFormatter.ofPattern("MM/dd");
 		MonthDay current_date;
-		MonthDay start_dte= Input.start_date.withDayOfMonth(Input.start_date.getDayOfMonth()-1);	//shift to one day before start date
-		MonthDay end_dte= Input.end_date.withDayOfMonth(Input.end_date.getDayOfMonth()+1);			//shift to one day after end date
+		MonthDay start_date= Input.start_date;//.withDayOfMonth(Input.start_date.getDayOfMonth()-1);	//shift to one day before start date
+		MonthDay end_date= Input.end_date;//.withDayOfMonth(Input.end_date.getDayOfMonth()+1);			//shift to one day after end date
 		while(s.hasNext())														//check if more data is available for parsing
 		{	String entry = s.nextLine();										//read an entry
 			StringTokenizer token_one= new StringTokenizer(entry,"|");			//tokenize to separate date and other fields
@@ -19,7 +19,7 @@ public class Parse_file
 				String date= token_one.nextToken().trim();
 				date= date.substring(1, 6);										//extract the MM/dd from date token
 				current_date= MonthDay.parse(date, dtf);
-				if(current_date.isAfter(start_dte) && current_date.isBefore(end_dte))
+				if((current_date.isAfter(start_date) || current_date.equals(start_date)) && (current_date.isBefore(end_date) || current_date.equals(end_date)))
 				{
 //					System.out.println(current_date.format(dtf));
 					Category.assign(entry);
