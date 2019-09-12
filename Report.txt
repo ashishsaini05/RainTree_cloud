@@ -1,10 +1,10 @@
-Date: 11/24 to 11/24
+Date: 11/24 to 11/25
 
 COMPUTER NAME                 NO. OF DISCONNECTS
 NITIN                                 1
-APT                                   2
+APT                                   4
 
-COMPUTER NAME                   NO. OF DROPS
+COMPUTER NAME                    NO. OF DROPS
 
 
 COMPUTER NAME              NO. OF AVG LIMIT EXCEEDED

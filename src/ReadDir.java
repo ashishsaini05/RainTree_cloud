@@ -1,6 +1,10 @@
 import java.io.*;
 import java.util.*;
-
+/*
+Read files in the given directory
+one after the other and send each file
+to Parse_file for parsing.
+*/
 public class ReadDir {
 	
 	static void read_files()

@@ -1,6 +1,13 @@
 import java.time.MonthDay;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
+
+/*
+Take a single file as input from 
+Read_dir class and parse it by reading
+each line as an 'entry' and tokenizing it
+to extract date and categorize the entry accordingly.
+*/
 public class Parse_file
 {
 
