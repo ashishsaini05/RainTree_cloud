@@ -1,0 +1,73 @@
+[00F9] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 2  LanId: | (02/20 07:51:32) | Client is disconnected from agent.
+[00F9] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 2  LanId: | (02/20 07:51:37) | Client is connected to agent.
+
+[52F2] ComputerName:APTTRUSSVILLE UserID: Logged out Station 0 LanId: | (02/20 08:10:04) | Client is connected to agent.
+
+[0806] ComputerName:MOODYLAPTOP UserID:A0007 Jonathan Burke Station 2  LanId: | (02/20 12:41:15) | Client is disconnected from agent.
+[0806] ComputerName:MOODYLAPTOP UserID:A0007 Jonathan Burke Station 2 (locked) LanId: | (02/20 12:41:30) | Client is connected to agent.
+
+[0125] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 5  LanId: | (02/20 14:09:17 - 02/20 14:09:37) | Average limit (316) exceeded while pinging 209.191.122.70 [209.191.122.70] 5x
+
+[010B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 4  LanId: | (02/20 14:06:43 - 02/20 14:07:23) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 9x
+
+[00E1] ComputerName:COMPUTER1 UserID:A0012 Kevin Thomason Station 12  LanId: | (02/20 14:47:32) | Client is disconnected from agent.
+[00E1] ComputerName:COMPUTER1 UserID:A0012 Kevin Thomason Station 12  LanId: | (02/20 14:47:37) | Client is connected to agent.
+
+[0BDC] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 1A  LanId: | (02/20 16:07:43) | Client is disconnected from agent.
+[0BDC] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 1A  LanId: | (02/20 16:07:53) | Client is connected to agent.
+
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8A  LanId: | (02/20 16:10:17) | Client is disconnected from agent.
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8A  LanId: | (02/20 16:10:23) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8A  LanId: | (02/20 16:10:24) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8A  LanId: | (02/20 16:10:28) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8A  LanId: | (02/20 16:10:29) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8A  LanId: | (02/20 16:10:33) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8A  LanId: | (02/20 16:10:34) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8A  LanId: | (02/20 16:10:38) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8A  LanId: | (02/20 16:10:39) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8A  LanId: | (02/20 16:10:43) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8A  LanId: | (02/20 16:10:44) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8C  LanId: | (02/20 16:10:48) | Client is connected to agent.
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8C  LanId: | (02/20 16:10:48) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8C  LanId: | (02/20 16:10:48) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8C (locked) LanId: | (02/20 16:10:53) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8C (locked) LanId: | (02/20 16:10:53) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8C (locked) LanId: | (02/20 16:10:58) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8C (locked) LanId: | (02/20 16:10:58) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0A54] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8C (locked) LanId: | (02/20 16:11:03) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+
+[0D04] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 1  LanId: | (02/20 17:13:55) | Client is disconnected from agent.
+[0D04] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 1A  LanId: | (02/20 17:14:10) | Client is connected to agent.
+
+[100A] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 1  LanId: | (02/20 19:33:31 - 02/20 19:33:41) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 3x
+
+[100A] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 1  LanId: | (02/20 19:33:46 - 02/20 19:34:41) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 12x
+
+[100A] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 1  LanId: | (02/20 19:34:46 - 02/20 19:34:51) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 2x
+
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:23:26) | Client is disconnected from agent.
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:23:33 - 02/20 12:24:33) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 13 times
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:24:38) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:24:38) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:24:43) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:24:44) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:24:48) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:24:49) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:24:54) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:24:55) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:24:59) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:25:00) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:25:04) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:25:05) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:25:08) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:25:09 - 02/20 12:25:29) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 5 times
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:25:34) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:25:35) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:25:39) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:25:40) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:25:44) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:25:45) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:25:49) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0247] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 6  LanId: | (02/20 12:25:50 - 02/20 12:26:35) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 10x
+

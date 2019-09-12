@@ -1,0 +1,34 @@
+[E8C7] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 1  LanId: | (12/15 08:03:11) | Client is disconnected from agent.
+[E8C7] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 1  LanId: | (12/15 08:03:29 - 12/15 08:04:39) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 10 times
+[E8C7] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 1  LanId: | (12/15 08:04:52) | Client is connected to agent.
+
+[E8FA] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 1  LanId: | (12/15 08:05:03) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com]
+[E8FA] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 1  LanId: | (12/15 08:05:08 - 12/15 08:05:23) | Drop count limit (5) exceeded while pinging www.google.com [74.125.65.104] 4x
+
+[E852] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 2  LanId: | (12/15 08:38:27) | Client is disconnected from agent.
+[E852] ComputerName:APTTRUSSVILLE UserID: Logged out Station 0 LanId: | (12/15 08:38:32) | Client is connected to agent.
+
+[E9F2] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 9  LanId: | (12/15 10:51:35) | Client is disconnected from agent.
+[E9F2] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 9  LanId: | (12/15 10:51:40) | Client is connected to agent.
+
+[EA7A] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (12/15 08:53:37) | Client is disconnected from agent.
+[EA7A] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (12/15 08:53:42) | Client is connected to agent.
+
+[F2C0] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 9  LanId: | (12/15 13:45:44) | Client is disconnected from agent.
+[F2C0] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 9 (locked) LanId: | (12/15 13:45:49) | Client is connected to agent.
+
+[EF76] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900B  LanId: | (12/15 12:10:07) | Client is disconnected from agent.
+[EF76] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900B  LanId: | (12/15 12:10:08) | Client is connected to agent.
+[EF76] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900B  LanId: | (12/15 12:10:15) | Client is disconnected from agent.
+
+[F5FB] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 9  LanId: | (12/15 15:17:43) | Client is disconnected from agent.
+[F5FB] ComputerName:APTTRUSSVILLE UserID: Logged out Station 0 LanId: | (12/15 15:17:48) | Client is connected to agent.
+
+[E8FC] ComputerName:APTMOODY UserID:RN Reba Nappier Station 8  LanId: | (12/15 17:18:20) | Client is disconnected from agent.
+[E8FC] ComputerName:APTMOODY UserID:RN Reba Nappier Station 8  LanId: | (12/15 17:18:25) | Client is connected to agent.
+
+[F73E] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9901  LanId: | (12/15 19:29:29) | Client is disconnected from agent.
+
+[FAE0] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 9  LanId: | (12/15 17:52:38) | Client is disconnected from agent.
+[FAE0] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 9 (locked) LanId: | (12/15 17:52:43) | Client is connected to agent.
+

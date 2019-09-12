@@ -1,0 +1,1202 @@
+[0AF8] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/06 07:49:18) | Client is disconnected from agent.
+[0AF8] ComputerName:FRONTDESK-PC UserID: Logged out Station 0 LanId: | (03/06 07:49:27) | Client is connected to agent.
+
+[1585] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 10  LanId: | (03/06 10:20:08) | Client is disconnected from agent.
+[1585] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 10  LanId: | (03/06 10:20:13) | Client is connected to agent.
+
+[132C] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:20:35) | Client is disconnected from agent.
+[132C] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:20:40) | Client is connected to agent.
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:30:32 - 03/06 10:30:42) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8] 3 times
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:30:45) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:30:46) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:30:50) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:30:51) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:30:55) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:30:56) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:30:20) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:30:27 - 03/06 10:30:32) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8] 2 times
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:30:36) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:30:36) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:30:40) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:30:41) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:30:45) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:30:45) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:30:50) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:30:51) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:30:55) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:30:55) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:00) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:01) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:00) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:00) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:05) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:05) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:11) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:11) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:15) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:15) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:20) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:20) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:25) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:25) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:30) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:30) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:35) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:35) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:40) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:40) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:45) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:45) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:50) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:50) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:55) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:31:55) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:05) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:05) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:10) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:11) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:15) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:16) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:20) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:21) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:25) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:26) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:31) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:31) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:36) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:36) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:41) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:41) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:46) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:46) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:51) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:51) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:56) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:31:56) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:01) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:01) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:00) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:00) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:05) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:05) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:10) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:10) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:15) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:15) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:20) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:20) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:26 - 03/06 10:32:36) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 3 times
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:37) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:41) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:42) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:46) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:47) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:50) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:50) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:55) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:32:55) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:06) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:07) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:12) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:13) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:17 - 03/06 10:32:22) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 2 times
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:23) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:27) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:28) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:31) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:31) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:36) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:36) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:41) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:41) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:46) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:46) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:51) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:51) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:56) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:32:56) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:33:01) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:33:00) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:33:00) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:33:06) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:33:06) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:33:10) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:33:10) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:33:15) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:33:15) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:33:20) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:33:21) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:33:26) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 10:33:26) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[173B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 10:33:06 - 03/06 10:33:41) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 8x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:56:57 - 03/06 11:57:02) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8] 2x
+
+[179B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 11:56:32 - 03/06 11:57:04) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8] 8x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:06) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:06) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:10) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:10) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:15) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:15) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:20) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:20) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:25) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:25) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:30) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:30) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:35) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:35) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:40) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:40) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:45) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:45 - 03/06 11:57:50) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8] 2 times
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:56) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:57:56) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:58:00) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:58:00) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[179B] ComputerName:FRONTOFFICEPELH UserID:GB Ginger Burt Station 1  LanId: | (03/06 11:57:09 - 03/06 11:57:45) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8] 8x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:58:05) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2A  LanId: | (03/06 11:58:05 - 03/06 11:58:20) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8] 4x
+
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:50:05) | Client is disconnected from agent.
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:50:11 - 03/06 12:50:52) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 9 times
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:50:56) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:50:57) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:01) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:02) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:06) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:07) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:11) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:12) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:16) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:17) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:21) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:22) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:26) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:27) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:31) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:32) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:36) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:37) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:42) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:42) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:47) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:47) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:51) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:52) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:57) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:51:58) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:02) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:03) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:07) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:07) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:12) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:12) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:17) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:18) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:22) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:23) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:27) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:28) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:32) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:33) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:37) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:38) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:42) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:43) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:47) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:48) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:52) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:53) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:57) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:52:58) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:53:02) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:53:03) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:53:07) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:53:08) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:53:12) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:53:13) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:53:17) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:53:18) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:53:22) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:53:23) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:53:28) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:53:28) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:53:32) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:53:33) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:53:38) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:53:38) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:53:43) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 12:53:43) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3 (locked) LanId: | (03/06 12:53:47) | Client is connected to agent.
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3 (locked) LanId: | (03/06 12:53:47) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3 (locked) LanId: | (03/06 12:53:47) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3 (locked) LanId: | (03/06 12:53:52) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3 (locked) LanId: | (03/06 12:53:52) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3 (locked) LanId: | (03/06 12:53:58 - 03/06 12:54:03) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 2x
+
+[1438] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3 (locked) LanId: | (03/06 12:54:08 - 03/06 12:54:18) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 3x
+
+[1B5A] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 11  LanId: | (03/06 13:59:08) | Client is disconnected from agent.
+[1B5A] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 11  LanId: | (03/06 13:59:13) | Client is connected to agent.
+
+[1AC5] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 14:12:49) | Client is disconnected from agent.
+[1AC5] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3 (locked) LanId: | (03/06 14:12:57) | Client is connected to agent.
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:17:11 - 03/06 14:18:06) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:18:11 - 03/06 14:19:07) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:19:12 - 03/06 14:20:07) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:20:12 - 03/06 14:21:07) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:21:12 - 03/06 14:22:08) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:22:12 - 03/06 14:23:06) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:23:13 - 03/06 14:24:08) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:24:13 - 03/06 14:25:07) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:25:13 - 03/06 14:26:09) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:26:14 - 03/06 14:27:09) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:27:14 - 03/06 14:28:09) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:28:14 - 03/06 14:29:08) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1C7C] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 14:28:36) | Client is disconnected from agent.
+[1C7C] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (03/06 14:28:41) | Client is connected to agent.
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:29:14 - 03/06 14:30:10) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:30:15 - 03/06 14:31:10) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:31:14 - 03/06 14:32:10) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:32:15 - 03/06 14:33:10) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:33:14 - 03/06 14:34:11) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 9x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:34:16 - 03/06 14:35:11) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:35:16 - 03/06 14:36:11) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:36:16 - 03/06 14:37:11) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:37:15 - 03/06 14:38:11) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:38:16 - 03/06 14:39:11) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:39:16 - 03/06 14:40:11) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:40:17 - 03/06 14:41:12) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:41:17 - 03/06 14:42:11) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:42:17 - 03/06 14:43:13) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:43:18 - 03/06 14:44:13) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:44:18 - 03/06 14:45:13) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:45:18 - 03/06 14:46:13) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:46:18 - 03/06 14:47:13) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:47:18 - 03/06 14:48:13) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:48:18 - 03/06 14:49:13) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:49:18 - 03/06 14:50:13) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:50:18 - 03/06 14:51:14) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:51:18 - 03/06 14:52:14) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:52:19 - 03/06 14:53:13) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:53:20 - 03/06 14:54:15) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:54:20 - 03/06 14:55:15) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:55:20 - 03/06 14:56:15) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:56:20 - 03/06 14:57:15) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:57:19 - 03/06 14:58:15) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:58:20 - 03/06 14:59:14) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 14:59:20 - 03/06 14:59:56) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 8x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 15:00:01 - 03/06 15:00:16) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 4x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 15:00:21 - 03/06 15:01:16) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 15:01:21 - 03/06 15:02:16) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 15:02:21 - 03/06 15:03:16) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 15:03:21 - 03/06 15:04:17) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 15:04:20 - 03/06 15:05:17) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 15:05:22 - 03/06 15:06:17) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 12x
+
+[1362] ComputerName:APTPELHAM UserID:A0003 Todd Howatt Station 2  LanId: | (03/06 15:06:22 - 03/06 15:06:51) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 7x
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:29:08 - 03/06 14:29:28) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 5 times
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:29:29) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:29:33) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:29:34) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:29:39) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:29:39) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:29:44) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:29:44) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:29:49) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:29:50) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:29:53) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:29:54) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:29:58) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:29:59) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:03) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:04) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:09) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:10) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:14) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:15) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:19) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:20) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:24) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:25) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:29) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:30) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:34) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:35) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:39) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:40) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:44) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:44) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:49) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:50) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:54) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:55) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:30:59) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:00) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:04) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:04) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:09) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:10) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:14) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:14) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:20) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:20) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:25) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:25) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:30) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:30) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:35) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:35) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:39) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:39) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:44) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:44) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:49) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:50) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:55) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:31:55) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:32:00) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:32:00) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:32:05) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:32:06) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:32:10) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:32:11) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:32:15) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:32:15) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:32:20) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:32:21) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:32:25) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:32:25) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:32:30) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:32:30 - 03/06 14:32:40) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8] 3x
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:33:36 - 03/06 14:33:41) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8] 2x
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:34:26 - 03/06 14:34:52) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 6x
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:34:56 - 03/06 14:35:06) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 3x
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:37:23 - 03/06 14:37:43) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 5 times
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:37:44) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:37:48) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:37:48) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:37:53) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:37:54) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:37:59) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:37:59) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:03) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:03) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:08) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:08) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:13) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:13) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:19) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:19) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:23 - 03/06 14:38:29) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 2 times
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:30) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:34) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:35) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:39) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:40) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:44) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:44) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:49) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:50) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:54) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:55) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:38:59) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:00) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:04) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:05) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:09) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:09) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:14) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:14) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:19) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:19) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:24) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:25) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:29) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:30) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:35) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:35) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:40) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:40) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:45) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:45) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:50) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:50) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:54) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:54) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:39:59) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:40:00) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:40:05) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:40:05) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:40:10) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:40:10) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (03/06 14:40:15 - 03/06 14:40:31) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8] 4 times
+[1E9F] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (03/06 14:40:35) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (03/06 14:40:36) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (03/06 14:40:40) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (03/06 14:40:40) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (03/06 14:40:46 - 03/06 14:40:51) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 2 times
+[1E9F] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (03/06 14:40:51) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (03/06 14:40:55) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (03/06 14:40:55) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (03/06 14:41:01) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (03/06 14:41:01) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (03/06 14:41:05) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (03/06 14:41:05) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (03/06 14:41:11) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (03/06 14:41:12) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (03/06 14:41:16 - 03/06 14:41:46) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 7 times
+[1E9F] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (03/06 14:41:47) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:41:51) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:41:52) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:41:56) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:41:56) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:01) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:01) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:07) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:07) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:12) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:12) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:17) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:17) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:22) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:23) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:27) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:28) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:32) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:33) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:37) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:38) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:42) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:42) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:47) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:48) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:52) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:52) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:57) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:42:57) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:02) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:03) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:07) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:07) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:12) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:13) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:17) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:18) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:23) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:23) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:28) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:28) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:33) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:33) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:38) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:38) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:43) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:43) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:48) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:48) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:53) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:53) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:58) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:43:58) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:03) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:04) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:08) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:08) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:13) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:14) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:18) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:18) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:23) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:24) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:28) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:29) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:33) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:33) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:38) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:38) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:43) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:44) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:48) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:48) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:53) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:53) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:58) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:44:58) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:45:03) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:45:04) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:45:08) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:45:08) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:45:13) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:45:13) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:45:18) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:45:18) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:45:23 - 03/06 14:45:34) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 3 times
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:45:34) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:45:39) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:45:39) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:45:44) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:45:44 - 03/06 14:45:54) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8] 3x
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:46:00 - 03/06 14:46:05) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8] 2 times
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:46:39 - 03/06 14:46:45) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 2 times
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:46:45) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:46:50) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:46:50) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:46:55) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:46:55) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:00) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:00) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:04) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:04) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:09) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:10) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:14) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:15) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:19) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:20) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:24) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:25) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:30) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:30) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:35) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:35) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:39) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:39) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:44) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:44) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:49) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:49) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:54) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:47:55) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:48:00) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:48:01) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:48:05) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:48:06) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:48:10) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:48:10) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:48:15) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:48:16) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:48:20) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:48:21) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:48:25) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:48:25 - 03/06 14:48:55) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8] 7x
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:00 - 03/06 14:49:11) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8] 3 times
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:16) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:16) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:21) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:22) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:26) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:26) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:31) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:32) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:36) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:36) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:41) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:42) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:46) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:46) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:51) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:51) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:56) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:49:56) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:50:01) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:50:01) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:50:06) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:50:06) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:50:11) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:50:12) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:50:16 - 03/06 14:50:57) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 9x
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:51:02 - 03/06 14:51:57) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 12x
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:52:02 - 03/06 14:52:58) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 12x
+
+[1E9F] ComputerName:KCUTSHALL-PC UserID:DP Dale Patterson Station 3B  LanId: | (03/06 14:53:03 - 03/06 14:53:18) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 4x
+
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:54:34) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:54:34) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:54:39) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:54:40) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:54:44) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:54:44) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:54:48) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:54:48) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:54:54) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:54:55) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:54:59) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:00) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:04) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:04) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:09) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:10) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:14) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:14) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:19) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:19) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:24) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:25) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:29) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:30) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:34) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:34) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:40) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:40) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:45) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:45) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:49) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:50) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:55) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:55:55) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:00) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:00) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:05) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:05) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:10) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:10) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:15) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:15) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:20) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:21) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:25) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:26) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:30) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:30) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:35) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:35) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:40) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:41) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:45) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:46) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:50) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:51) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:55) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:56:56) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:00) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:01) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:05) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:05) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:10) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:10) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:15) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:15) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:21) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:21) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:26) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:26) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:31) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:31) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:36) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:36) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:40) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:40) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:45) | Client is disconnected from agent.
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:46) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:46) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:50) | Client is connected to agent.
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:51) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (03/06 14:57:52) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:56) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:57:57) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:01) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:01) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:06) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:06) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:11) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:11) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:16) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:17) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:21) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:21) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:26) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:27) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:31) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:32) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:36) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:37) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:42) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:42) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:46) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:47) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:51) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:52) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:57) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:58:57) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:02) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:02) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:07) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:08) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:12) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:13) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:17) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:18) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:22) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:23) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:27) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:28) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:32) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:33) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:37) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:38) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:42) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:42) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:47) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:47) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:52) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:52) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:57) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 14:59:57) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:03) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:03) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:07) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:08) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:12) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:12) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:17) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:17) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:23) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:23) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:27) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:27) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:32) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:33) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:38) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:39) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:43) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:44) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:48) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:48) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:53) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:53) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:58) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:00:59) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:01:03) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:01:03) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:01:08 - 03/06 15:02:04) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 12x
+
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:02:09 - 03/06 15:02:29) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 5 times
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:02:30) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:A0006 Beth Garwick Station 12  LanId: | (03/06 15:02:34) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:02:39) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:02:40) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:02:44) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:02:44) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:02:49) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:02:50) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:02:54) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:02:54) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:02:59) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:02:59) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:04) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:05) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:09) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:10) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:14) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:14) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:20) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:20) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:24) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:24) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:30) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:30) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:35) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:35) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:40) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:40) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:45) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:46) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:50) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:50) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:54) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:55) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:59) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:03:59) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:04:05) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:04:05) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:04:10) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:04:10) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:04:15) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:04:15) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:04:20) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:04:20) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[1432] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:04:25 - 03/06 15:04:45) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 5 times
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:04:55 - 03/06 15:05:05) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 3 times
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:05:06) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:05:11) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:05:11) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:05:16 - 03/06 15:05:21) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 2 times
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:05:21) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:05:26 - 03/06 15:05:46) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 5 times
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:05:46) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:05:51) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:05:51) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:05:56) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:05:57) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:00) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:01) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:06) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:06) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:11) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:12) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:16) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:16) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:21) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:21) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:26) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:27) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:31) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:32) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:36) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:37) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:41) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:41) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:46) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:47) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:51) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:51) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:56) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:06:56) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:07:01) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:07:01) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:07:06) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:07:06) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:07:11) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:07:12) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:07:16) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:07:16 - 03/06 15:07:21) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8] 2 times
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:07:26) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:07:27) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:07:31) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:07:32) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:09:18 - 03/06 15:09:58) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 9 times
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:09:58) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:03) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:08) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:09) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:13) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:14) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:19) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:19) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:23) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:23) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:29) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:29) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:34) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:34) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:39) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:39) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:44) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:44) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:49) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:49) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:54) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:54) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:58) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:10:59) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:04) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:04) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:09) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:09) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:14) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:14) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:18) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:18) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:24) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:25) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:29) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:29) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:34) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:35) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:39) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:40) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:44) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:45) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:49) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:49) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:54) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:54) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:11:59) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:00) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:04) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:05) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:09) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:09) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:15) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:15) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:20) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:20) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:24) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:24) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:30) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:30) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:34) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:34) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:40) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:41) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:45) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:45) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:50) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:51) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:55) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:12:56) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:00) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:01) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:05) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:05) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:10) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:11) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:15) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:16) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:20) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:21) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:25) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:26) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:30) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:31) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:35) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:36) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:41) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:41) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:46) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:46) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:51) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:51) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:56) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:13:56) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:01) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:01) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:06) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:06) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:11) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:11) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:16) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:16) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:21) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:21) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:25) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:26) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:31) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:31) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:36) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:36) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:41) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:42) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:45) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:45) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:51) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:52) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:56) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:14:56) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:01) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:02) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:06) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:07) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:11) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:11) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:16) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:17) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:21) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:21) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:26) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:26) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:31) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:31) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:36) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:36) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:41) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:42) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:46) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:47) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:51) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:51) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:56) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:15:57) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:16:01) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:16:01) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:16:06) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:16:06) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:16:11 - 03/06 15:17:07) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 12x
+
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:17:12 - 03/06 15:18:08) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70] 12 times
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:08) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:13) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:13) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:17) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:17) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:23) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:24) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:28) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:29) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:33) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:34) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:38) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:39) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:43) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:44) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:48) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:49) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:53) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:54) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:58) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:18:59) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:03) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:04) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:08) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:08) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:13) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:14) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:18) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:18) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:23) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:24) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:28) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:29) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:34) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:34) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:39) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:39) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:44) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:44) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:48) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:49) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:53) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:53) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:58) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:19:58) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:03) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:03) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:08) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:09) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:14) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:14) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:19) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:19) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:24) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:24) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:29) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:29) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:34) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:34) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:39) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:39) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:44) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:45) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:49) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:49) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:20:59) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:21:00) | Average limit (300) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:22:42) | Client is disconnected from agent.
+[2000] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900 (locked) LanId: | (03/06 15:23:00) | Client is connected to agent.
+
+[1EF6] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 1  LanId: | (03/06 17:29:26) | Client is disconnected from agent.
+[1EF6] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 1  LanId: | (03/06 17:29:31) | Client is connected to agent.
+

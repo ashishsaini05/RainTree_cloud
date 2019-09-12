@@ -1,0 +1,29 @@
+[196F] ComputerName:PELHAMLAPTOP UserID:A0003 Todd Howatt Station 10A  LanId: | (02/08 07:05:41) | Client is disconnected from agent.
+[196F] ComputerName:PELHAMLAPTOP UserID:A0003 Todd Howatt Station 10A  LanId: | (02/08 07:05:52) | Client is connected to agent.
+
+[271A] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 1  LanId: | (02/08 07:21:44) | Client is disconnected from agent.
+[271A] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 1  LanId: | (02/08 07:21:54) | Client is connected to agent.
+
+[2770] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 1  LanId: | (02/08 07:41:04) | Client is disconnected from agent.
+[2770] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 1  LanId: | (02/08 07:41:19) | Client is connected to agent.
+
+[2729] ComputerName:PELHAMLAPTOP UserID:A0003 Todd Howatt Station 10A  LanId: | (02/08 09:04:03) | Client is disconnected from agent.
+[2729] ComputerName:PELHAMLAPTOP UserID:A0003 Todd Howatt Station 10A  LanId: | (02/08 09:04:13) | Client is connected to agent.
+
+[2856] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 9  LanId: | (02/08 09:11:21) | Client is disconnected from agent.
+[2856] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 9  LanId: | (02/08 09:11:43 - 02/08 09:13:17) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 13 times
+[2856] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 9  LanId: | (02/08 09:13:28) | Client is connected to agent.
+[2856] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 9  LanId: | (02/08 09:13:36) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com]
+
+[2856] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 9  LanId: | (02/08 09:13:41 - 02/08 09:13:56) | Drop count limit (5) exceeded while pinging www.google.com [74.125.159.105] 4x
+
+[2807] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (02/08 08:32:15) | Client is disconnected from agent.
+[2807] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (02/08 08:32:31) | Client is connected to agent.
+
+[2894] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 11  LanId: | (02/08 09:50:12) | Client is disconnected from agent.
+[2894] ComputerName:APTTRUSSVILLE UserID: Logged out Station 0 LanId: | (02/08 09:50:22) | Client is connected to agent.
+
+[2B87] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (02/08 18:24:00) | Client is disconnected from agent.
+[2B87] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (02/08 18:24:04) | Client is connected to agent.
+[2B87] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (02/08 18:24:14) | Client is disconnected from agent.
+

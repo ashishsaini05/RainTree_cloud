@@ -1,0 +1,21 @@
+[12283] ComputerName:CHELLAPTOP2 UserID:A0010 Nate Coronado Station 5  LanId: | (12/06 12:55:37) | Client is disconnected from agent.
+[12283] ComputerName:CHELLAPTOP2 UserID:A0010 Nate Coronado Station 5  LanId: | (12/06 12:55:47 - 12/06 12:56:12) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 6 times
+[12283] ComputerName:CHELLAPTOP2 UserID:A0010 Nate Coronado Station 5  LanId: | (12/06 12:56:19) | Drop count limit (5) exceeded while pinging www.google.com [74.125.45.105]
+[12283] ComputerName:CHELLAPTOP2 UserID:A0010 Nate Coronado Station 5 (locked) LanId: | (12/06 12:56:21) | Client is connected to agent.
+[12283] ComputerName:CHELLAPTOP2 UserID:A0010 Nate Coronado Station 5 (locked) LanId: | (12/06 12:56:24) | Drop count limit (5) exceeded while pinging www.google.com [74.125.45.105]
+
+[12283] ComputerName:CHELLAPTOP2 UserID:A0010 Nate Coronado Station 5 (locked) LanId: | (12/06 12:56:29 - 12/06 12:56:34) | Drop count limit (5) exceeded while pinging www.google.com [74.125.45.105] 2x
+
+[12567] ComputerName:MOODYLAPTOP UserID:A0007 Jonathan Burke Station 9  LanId: | (12/06 13:27:58) | Client is disconnected from agent.
+[12567] ComputerName:MOODYLAPTOP UserID:A0007 Jonathan Burke Station 9  LanId: | (12/06 13:28:08) | Client is connected to agent.
+
+[121E7] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3A  LanId: | (12/06 13:44:08) | Client is disconnected from agent.
+[121E7] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3A  LanId: | (12/06 13:44:24 - 12/06 13:46:06) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 14 times
+[121E7] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3A  LanId: | (12/06 13:46:09) | Client is connected to agent.
+[121E7] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3A  LanId: | (12/06 13:46:11 - 12/06 13:46:27) | Drop count limit (5) exceeded while pinging www.google.com [74.125.45.106] 4x
+
+[12C66] ComputerName:MOODYLAPTOP UserID:A0007 Jonathan Burke Station 9 (locked) LanId: | (12/06 13:48:09) | Client is disconnected from agent.
+[12C66] ComputerName:MOODYLAPTOP UserID:A0007 Jonathan Burke Station 9 (locked) LanId: | (12/06 13:48:24) | Client is connected to agent.
+
+[12DDC] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 6  LanId: | (12/06 14:35:45) | Client is disconnected from agent.
+

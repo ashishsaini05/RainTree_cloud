@@ -1,0 +1,41 @@
+[C2AF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3A  LanId: | (01/04 10:27:09) | Client is disconnected from agent.
+[C2AF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3A  LanId: | (01/04 10:27:33 - 01/04 10:30:33) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 24 times
+[C2AF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3A  LanId: | (01/04 10:30:38 - 01/04 10:30:43) | Drop count limit (5) exceeded while pinging www.google.com [74.125.65.103] 2 times
+[C2AF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3A  LanId: | (01/04 10:30:45) | Client is connected to agent.
+[C2AF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3A  LanId: | (01/04 10:30:48 - 01/04 10:30:53) | Drop count limit (5) exceeded while pinging www.google.com [74.125.65.103] 2x
+
+[C526] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 10  LanId: | (01/04 11:01:29) | Client is disconnected from agent.
+[C526] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 10 (locked) LanId: | (01/04 11:01:39) | Client is connected to agent.
+
+[C3A1] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/04 09:11:14) | Client is disconnected from agent.
+
+[C3A1] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/04 10:12:05 - 01/04 10:12:27) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 3x
+
+[C3A1] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/04 11:12:23) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com]
+[C3A1] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/04 11:12:28) | Drop count limit (5) exceeded while pinging www.google.com [74.125.157.147]
+[C3A1] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 11  LanId: | (01/04 11:17:27) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com]
+
+[CA24] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 6  LanId: | (01/04 13:00:26) | Client is disconnected from agent.
+[CA24] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 6  LanId: | (01/04 13:01:02) | Client is connected to agent.
+
+[CA84] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (01/04 13:03:20) | Client is disconnected from agent.
+[CA84] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (01/04 13:03:26) | Client is connected to agent.
+
+[CA24] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 6  LanId: | (01/04 13:03:08) | Client is disconnected from agent.
+[CA24] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 6  LanId: | (01/04 13:03:23) | Client is connected to agent.
+
+[CB32] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 5  LanId: | (01/04 14:08:46) | Client is disconnected from agent.
+[CB32] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 5  LanId: | (01/04 14:08:51) | Client is connected to agent.
+
+[CC24] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 5  LanId: | (01/04 14:24:18) | Client is disconnected from agent.
+[CC24] ComputerName:PELHAMLAPTOP UserID:A0011 Laura Longard Station 5  LanId: | (01/04 14:24:28) | Client is connected to agent.
+
+[CEF8] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 4  LanId: | (01/04 17:10:40) | Client is disconnected from agent.
+[CEF8] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 4 (locked) LanId: | (01/04 17:10:55) | Client is connected to agent.
+
+[CFAE] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 4  LanId: | (01/04 17:24:45) | Client is disconnected from agent.
+[CFAE] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 4 (locked) LanId: | (01/04 17:25:00) | Client is connected to agent.
+
+[CFF0] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 4  LanId: | (01/04 17:38:31) | Client is disconnected from agent.
+[CFF0] ComputerName:OWNER-BC8810E49 UserID:A0005 Kelley Zajac Station 4  LanId: | (01/04 17:38:46) | Client is connected to agent.
+

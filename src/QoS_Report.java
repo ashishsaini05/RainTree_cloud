@@ -1,26 +1,26 @@
-import java.util.*;
-import java.io.*;
 
 public class QoS_Report 
 {	
 	public static void main(String[] args) 
 	{
 		
-		int i=Input.input();
-		if(i==1)
+		int flag=Input.input();
+		if(flag==1)
 		{
-//			System.out.println("yes.");
 			ReadDir.read_files();
 			Print.print();
 			System.out.println("Report generated.");
 		}
-		else
+		else if(flag==2)
 		{
 			System.out.println("Ending date cannot be smaller than Starting date.\nTerminating.");
 			System.exit(0);
 		}
-//		ReadDir.read_files();
-//		int a=10;
+		else
+		{
+			System.out.println("Terminating.");
+			System.exit(0);
+		}
 	}
 	
 }

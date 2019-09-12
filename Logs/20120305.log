@@ -1,0 +1,142 @@
+[014E] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 2  LanId: | (03/05 07:55:22) | Client is disconnected from agent.
+[014E] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 2  LanId: | (03/05 07:55:30) | Client is connected to agent.
+
+[01F8] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 09:53:11) | Client is disconnected from agent.
+[01F8] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 09:53:27) | Client is connected to agent.
+
+[0260] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 09:53:15) | Client is disconnected from agent.
+[0260] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 09:53:20) | Client is connected to agent.
+
+[0211] ComputerName:COMPUTER1 UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 09:53:11) | Client is disconnected from agent.
+[0211] ComputerName:COMPUTER1 UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 09:53:15) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0211] ComputerName:COMPUTER1 UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 09:53:16) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0211] ComputerName:COMPUTER1 UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 09:53:21) | Client is connected to agent.
+
+[0486] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 10:05:09) | Client is disconnected from agent.
+[0486] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 10:05:25 - 03/05 10:06:05) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 8 times
+[0486] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 10:06:10) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0486] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 10:06:10) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0486] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 10:06:15) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0486] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 10:06:15) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0486] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 10:06:20) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0486] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 10:06:21) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0486] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 10:06:25) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0486] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 10:06:26) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0486] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 10:06:30) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0486] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 10:06:31) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0486] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 10:06:35) | Client is connected to agent.
+[0486] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 10:06:35) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0486] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 10:06:35) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0486] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 10:06:40) | Average limit (300) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0486] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 10:06:40 - 03/05 10:06:45) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8] 2x
+
+[0486] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2  LanId: | (03/05 10:06:50) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[0523] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 12:17:08) | Client is disconnected from agent.
+[0523] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 12:17:09 - 03/05 12:18:24) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70] 5 times
+[0523] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 12:18:25) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0523] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 12:18:29) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0523] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 12:18:30) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0523] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 12:18:34) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0523] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 12:18:35) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0523] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 12:18:39) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0523] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 12:18:39) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0523] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 12:18:44) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0523] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 12:18:44) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0523] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 12:18:49) | Client is connected to agent.
+[0523] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 12:18:49) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0523] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 12:18:49) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0523] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 12:18:54) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0523] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 12:18:54) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[0487] ComputerName:COMPUTER1 UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 12:17:07) | Client is disconnected from agent.
+[0487] ComputerName:COMPUTER1 UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 12:17:12) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0487] ComputerName:COMPUTER1 UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 12:17:12) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0487] ComputerName:COMPUTER1 UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 12:17:17) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0487] ComputerName:COMPUTER1 UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 12:17:17) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0487] ComputerName:COMPUTER1 UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 12:17:22) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0487] ComputerName:COMPUTER1 UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 12:17:22) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[0487] ComputerName:COMPUTER1 UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 12:17:27) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[0487] ComputerName:COMPUTER1 UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 12:17:27) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:32:24) | Client is disconnected from agent.
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:32:30) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:32:31) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:32:35) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:32:36) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:32:40) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:32:41) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:32:45) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:32:46) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:32:50) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:32:51) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:32:55) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:32:56) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:00) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:01) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:05) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:06) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:10) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:11) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:15) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:16) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:20) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:21) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:25) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:25) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:29) | Client is connected to agent.
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:30) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:30) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:35) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:35) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:40) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[07E2] ComputerName:FRONTDESK-PC UserID:HW Heather Wooley Station 8  LanId: | (03/05 14:33:40) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:31:15) | Client is disconnected from agent.
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:32:31) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:32:32) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:32:36) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:32:37) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:32:41) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:32:42) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:32:46) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:32:47) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:32:51) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:32:52) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:32:56) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:32:57) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:33:01) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:33:02) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:33:06) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:33:07) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:33:11) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:33:12) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:33:16) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:33:17) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:33:21) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:33:22) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:33:26) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:33:26) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:33:31) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:33:31) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:33:36) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:33:36) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:33:41) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[09F5] ComputerName:APTTRUSSVILLE UserID:A0012 Kevin Thomason Station 12  LanId: | (03/05 14:33:41) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+
+[04EF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2B  LanId: | (03/05 12:17:14) | Client is disconnected from agent.
+[04EF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2B  LanId: | (03/05 12:18:26) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[04EF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2B  LanId: | (03/05 12:18:27) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[04EF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2B  LanId: | (03/05 12:18:31) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[04EF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2B  LanId: | (03/05 12:18:32) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[04EF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2B  LanId: | (03/05 12:18:36) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[04EF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2B  LanId: | (03/05 12:18:37) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[04EF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2B  LanId: | (03/05 12:18:40) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[04EF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2B  LanId: | (03/05 12:18:40) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[04EF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2B  LanId: | (03/05 12:18:45) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[04EF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2B  LanId: | (03/05 12:18:45) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[04EF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2B  LanId: | (03/05 12:18:50) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[04EF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2B  LanId: | (03/05 12:18:50) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+[04EF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2B  LanId: | (03/05 12:18:55) | Drop count limit (5) exceeded while pinging 209.191.122.70 [209.191.122.70]
+[04EF] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 2B  LanId: | (03/05 12:18:55) | Drop count limit (5) exceeded while pinging 8.8.8.8 [8.8.8.8]
+

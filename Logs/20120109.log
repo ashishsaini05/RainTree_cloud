@@ -1,0 +1,37 @@
+[13208] ComputerName:LAPTOP2 UserID:DP Dale Patterson Station 5  LanId: | (01/09 08:18:04) | Client is disconnected from agent.
+[13208] ComputerName:LAPTOP2 UserID:DP Dale Patterson Station 5  LanId: | (01/09 08:18:21) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com]
+[13208] ComputerName:LAPTOP2 UserID:DP Dale Patterson Station 5  LanId: | (01/09 08:18:29) | Client is connected to agent.
+
+[131CE] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (01/09 10:56:34) | Client is disconnected from agent.
+[131CE] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (01/09 10:56:58 - 01/09 10:59:54) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 23x
+
+[131CE] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (01/09 11:00:02 - 01/09 11:00:33) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 5 times
+[131CE] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (01/09 11:00:38 - 01/09 11:00:53) | Drop count limit (5) exceeded while pinging www.google.com [74.125.47.99] 4x
+
+[135F3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (01/09 10:27:28) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com]
+[135F3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (01/09 10:27:33) | Drop count limit (5) exceeded while pinging www.google.com [74.125.224.148]
+[135F3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (01/09 10:27:39 - 01/09 10:27:44) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 2 times
+[135F3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (01/09 10:27:49) | Drop count limit (5) exceeded while pinging www.google.com [74.125.224.148]
+[135F3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (01/09 10:27:55 - 01/09 10:28:00) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 2 times
+[135F3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (01/09 10:28:06) | Drop count limit (5) exceeded while pinging www.google.com [74.125.224.148]
+
+[135F3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (01/09 10:28:12) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com]
+[135F3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (01/09 10:28:17) | Drop count limit (5) exceeded while pinging www.google.com [74.125.224.148]
+
+[135F3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (01/09 10:53:40) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com]
+
+[135F3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (01/09 11:09:17) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com]
+[135F3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (01/09 11:09:23) | Drop count limit (5) exceeded while pinging www.google.com [74.125.224.145]
+[135F3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (01/09 11:09:29 - 01/09 11:09:40) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 2 times
+[135F3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (01/09 11:09:46) | Drop count limit (5) exceeded while pinging www.google.com [74.125.224.145]
+
+[135FE] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (01/09 13:11:20) | Client is disconnected from agent.
+[135FE] ComputerName:APTOFFICE UserID:DP Dale Patterson Station 3  LanId: | (01/09 13:11:50) | Client is connected to agent.
+
+[135F3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (01/09 11:13:25 - 01/09 11:13:41) | Drop count limit (5) exceeded while pinging www.google.com [www.google.com] 2x
+
+[137DA] ComputerName:BETHGARWICK UserID:A0006 Beth Garwick Station 10  LanId: | (01/09 15:08:59) | Client is disconnected from agent.
+[137DA] ComputerName:BETHGARWICK UserID: Logged out Station 0 LanId: | (01/09 15:09:09) | Client is connected to agent.
+
+[135F3] ComputerName:KCUTSHALL-PC UserID:GO kcutshall Station 9900  LanId: | (01/09 13:05:26) | Client is disconnected from agent.
+
